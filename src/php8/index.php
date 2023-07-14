@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello PHP 8";
+echo "Hello PHP 8.0";
