@@ -2,7 +2,7 @@
     "name": "tona/php8",
     "description": "php-8 features",
     "keywords": [
-        "php 8.*"
+        "php8.*"
     ],
     "autoload": {
         "psr-4": {
