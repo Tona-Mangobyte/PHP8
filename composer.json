@@ -6,7 +6,9 @@
     ],
     "autoload": {
         "psr-4": {
-            "Php8\\": "src/"
+            "PHP8\\": "src/php8",
+            "PHP81\\": "src/php81",
+            "PHP82\\": "src/php82"
         }
     },
     "authors": [
